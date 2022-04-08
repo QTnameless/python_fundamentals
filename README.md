@@ -1,6 +1,6 @@
-# <span style = "color : #fcc300"> **Python** </span> 🐍
+# **Python** 🐍
 
-> ***<mark>Python</mark> is a general-purpose interpreted, interactive, object-oriented and high-level programming language.***
+> ***Python is a general-purpose interpreted, interactive, object-oriented and high-level programming language.***
 
 ### **Some advantages of learning Python** 👍
 
@@ -11,10 +11,9 @@
 
 </br>
 
----
-## <span style = "color : #2ECC71">**Foundation** </span>🌱
+## **Foundation** 🌱
 
-Python is a **'interpreted language'**, which is a little bit different from **'compiled languages'** like C or Java.
+* Python is a **'interpreted language'**, which is a little bit different from **'compiled languages'** like C or Java.
 
 - [ ] **[Using Python Interpreter](/Python/foundation/1_python_interpreter.md)**
 
@@ -24,20 +23,19 @@ Python is a **'interpreted language'**, which is a little bit different from **'
 
 </br>
 
-Python also uses the usual flow control statements known from other languages, with some twists. 
+* Python also uses the usual flow control statements known from other languages, with some twists. 
 
 - [ ] **[More Control Flow Tools (if, for, range() ...)]()**
 
 </br>
 
-Most language  can be written (or more concise, ***formatted***) in different styles; some are more readable than others. Making it easy for others to read your code is always a good idea, and adopting a nice coding style helps tremendously for that.
+* Most language  can be written (or more concise, ***formatted***) in different styles; some are more readable than others. Making it easy for others to read your code is always a good idea, and adopting a nice coding style helps tremendously for that.
 
 - [ ] **[Intermezzo: Coding Style]()**
 
 </br>
 
----
-## <span style = "color : #7E5109"> **Functions** </span> 🛠️
+## **Functions** 🛠️
 
 > 
 - [ ] **[0. Defining Functions]()**
@@ -58,14 +56,12 @@ Most language  can be written (or more concise, ***formatted***) in different st
 
 </br>
 
----
-## <span style = "color : #196F3D"> **Data Structures** </span>🌳
+## **Data Structures** 🌳
 
 - [ ] **[]()**
 
 </br>
 
----
 ## <span style = "color : #A6ACAF"> **Modules** </span> ⚙️ 
 
 - [ ] **[]()**
@@ -73,30 +69,26 @@ Most language  can be written (or more concise, ***formatted***) in different st
 
 </br>
 
----
 
-## <span style = "color : #F4D03F"> **File I/O** </span> 📂
-
-- [ ] **[]()**
-
-</br>
-
----
-## <span style = "color : #C0392B"> **Errors and Exceptions** </span> ❌
+## **File I/O** 📂
 
 - [ ] **[]()**
 
 </br>
 
----
-## <span style = "color : #D35400"> **Classes** </span> 💊
+## **Errors and Exceptions** ❌
 
 - [ ] **[]()**
 
 </br>
 
----
-## <span style = "color : #A569BD"> **Popular Libraries** </span> 📚
+## **Classes** 💊
+
+- [ ] **[]()**
+
+</br>
+
+## **Popular Libraries** 📚
 
 - [ ] **[]()**
 
