@@ -1,6 +1,6 @@
 # **Python** 🐍
 
-> ***Python is a general-purpose interpreted, interactive, object-oriented and high-level programming language.***
+> ### ***Python is a general-purpose interpreted, interactive, object-oriented and high-level programming language.***
 
 ### **Some advantages of learning Python** 👍
 
