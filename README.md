@@ -13,24 +13,47 @@
 
 ---
 ## <span style = "color : #2ECC71">**Foundation** </span>🌱
-- [ ] **[1. Using Python Interpreter](/Python/foundation/1_python_interpreter.md)**
-- [ ] **[2. Using Python as a Calculator (Numbers, Strings, Lists)]()**
-- [ ] **[3. More Control Flow Tools]()**
-- [ ] **[4. Intermezzo: Coding Style]()**
+
+Python is a **'interpreted language'**, which is a little bit different from **'compiled languages'** like C or Java.
+
+- [ ] **[Using Python Interpreter](/Python/foundation/1_python_interpreter.md)**
+
+    You can actually run Python code directly from command prompt. 
+
+- [ ] **[Using Python as a Calculator (Numbers, Strings, Lists)]()**
+
+</br>
+
+Python also uses the usual flow control statements known from other languages, with some twists. 
+
+- [ ] **[More Control Flow Tools (if, for, range() ...)]()**
+
+</br>
+
+Most language  can be written (or more concise, ***formatted***) in different styles; some are more readable than others. Making it easy for others to read your code is always a good idea, and adopting a nice coding style helps tremendously for that.
+
+- [ ] **[Intermezzo: Coding Style]()**
 
 </br>
 
 ---
-## <span style = "color : #7E5109"> **Defining Functions** </span> 🛠️
+## <span style = "color : #7E5109"> **Functions** </span> 🛠️
 
 > 
+- [ ] **[0. Defining Functions]()**
 
 - [ ] **[1. Default Argument Values]()**
+
 - [ ] **[2. Special Parameters]()**
+
 - [ ] **[3. Arbitrary Argument Lists]()**
+
 - [ ] **[4. Unpacking Argument Lists]()**
+
 - [ ] **[5. Lambda Expressions]()**
+
 - [ ] **[6. Documentation Strings]()**
+
 - [ ] **[7. Function Annotations]()**
 
 </br>
@@ -46,6 +69,7 @@
 ## <span style = "color : #A6ACAF"> **Modules** </span> ⚙️ 
 
 - [ ] **[]()**
+
 
 </br>
 
