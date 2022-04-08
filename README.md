@@ -4,10 +4,14 @@
 
 ### **Some advantages of learning Python** 👍
 
-* **Python is interpreted** - <span style = "color : #808080"> Python is processed at runtime by the interpreter, it means u don't need to compile the program before executing it. </span>
-* **Python is interactive** - <span style = "color : #808080"> Python let you sit in the prompt and interact with the interpreter directly.</span>
-* **Python is Object-Oriented** - <span style = "color : #808080"> Python supports Object-Oriented style or technique of programming that encapsulates code within objects.</span>
-* **Python is a Beginner's Language** − <span style = "color : #808080"> Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.</span>
+* **Python is interpreted**
+> Python is processed at runtime by the interpreter, it means u don't need to compile the program before executing it.
+* **Python is interactive**
+>Python let you sit in the prompt and interact with the interpreter directly.
+* **Python is Object-Oriented**
+> Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+* **Python is a Beginner's Language** 
+> Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
 
 </br>
 
