@@ -19,30 +19,39 @@
 
 * Python is a **'interpreted language'**, which is a little bit different from **'compiled languages'** like C or Java.
 
-- [ ] **[Using Python Interpreter](/Python/foundation/1_python_interpreter.md)**
+    - [ ] **[Using Python Interpreter](/Python/foundation/1_python_interpreter.md)**
 
     You can actually run Python code directly from command prompt. 
 
-- [ ] **[Using Python as a Calculator (Numbers, Strings, Lists)]()**
+    - [ ] **[Using Python as a Calculator (Numbers, Strings, Lists)]()**
 
 </br>
 
 * Python also uses the usual flow control statements known from other languages, with some twists. 
 
-- [ ] **[More Control Flow Tools (if, for, range() ...)]()**
+    - [ ] **[More Control Flow Tools (if, for, range() ...)]()**
 
 </br>
 
 * Most language  can be written (or more concise, ***formatted***) in different styles; some are more readable than others. Making it easy for others to read your code is always a good idea, and adopting a nice coding style helps tremendously for that.
 
-- [ ] **[Intermezzo: Coding Style]()**
+    - [ ] **[Intermezzo: Coding Style]()**
 
 </br>
 
 ## **Functions** 🛠️
 
-> 
-- [ ] **[0. Defining Functions]()**
+**Learn how to define a function in Python**
+
+- [ ] **[Defining Functions]()**
+
+### **More on Defining Functions**
+
+*It is also possible to define functions with a variable number of arguments. There are three forms,which can be combined :*
+
+1. **Built-in Functions** : such as `help()` to ask for help, `min()` to get the minimum value, `print()` to print an object to the terminal,…  
+2. **User-Defined Functions (UDFs)** : functions that users create to help them out of their
+3. **Anonymous Functions (Lambda functions)** : 
 
 - [ ] **[1. Default Argument Values]()**
 
@@ -66,7 +75,7 @@
 
 </br>
 
-## <span style = "color : #A6ACAF"> **Modules** </span> ⚙️ 
+## **Modules** ⚙️ 
 
 - [ ] **[]()**
 
