@@ -24,6 +24,9 @@
     You can actually run Python code directly from command prompt. 
 
     - [ ] **[Using Python as a Calculator (Numbers, Strings, Lists)](foundation/2_py_calculator.md)**
+        * *[Numbers](foundation/2_py_calculator.md/#2️⃣1️⃣-number)*
+        * *[Strings](foundation/2_py_calculator.md/#2️⃣2️⃣-strings)*
+        * *[Lists](foundation/2_py_calculator.md/#2️⃣3️⃣-lists)*
 
 </br>
 
