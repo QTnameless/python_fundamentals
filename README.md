@@ -28,6 +28,7 @@
         * *[Strings](foundation/2_py_calculator.md/#2️⃣2️⃣-strings)*
         * *[Lists](foundation/2_py_calculator.md/#2️⃣3️⃣-lists)*
 
+        🔗 [More detail about variable types](foundation/Built-in%20Types%20%E2%80%94%20Python%203.10.4.pdf)
 </br>
 
 * Python also uses the usual flow control statements known from other languages, with some twists. 
