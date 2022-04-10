@@ -75,7 +75,24 @@ NameError: name 'n' is not defined
 
 ## 2️⃣.2️⃣ **Strings**
 
+* String in Python can be expressed in several ways :
+    - ***Single quotes*** : `'...'`
+    - ***Double quotes*** : `"..."`
+    - ***Slash*** : `\` can be use to escape quotes.
 
+```console
+>>> 'I am NMT'
+'I am NMT'
+>>> 'I\'m NMT' # use slash to escape single quote.
+'I'm NMT'
+# or you can use double quote instead.
+>>> "You aren't the only one."
+"You aren't the only one."
+>>> "\"Yes,\" they said."
+'"Yes," they said.'
+>>> '"Isn\'t," they said.'
+'"Isn\'t," they said.'
+```
 
 ## 2️⃣.3️⃣ **Lists**
 
