@@ -6,7 +6,7 @@
 
 * ***The operators*** : `+`, `-`, `*`, `/`, `%` work like other languages.
 
-```python
+```console
 >>> 2 + 2
 4
 >>> 50 - 5*6
