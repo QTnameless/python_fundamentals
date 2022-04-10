@@ -23,7 +23,7 @@
 
     You can actually run Python code directly from command prompt. 
 
-    - [ ] **[Using Python as a Calculator (Numbers, Strings, Lists)]()**
+    - [ ] **[Using Python as a Calculator (Numbers, Strings, Lists)](foundation/2_py_calculator.md)**
 
 </br>
 
