@@ -19,7 +19,7 @@
 
 * Python is a **'interpreted language'**, which is a little bit different from **'compiled languages'** like C or Java.
 
-    - [ ] **[Using Python Interpreter](foundation/1_python_interpreter.md)**
+    - [x] **[Using Python Interpreter](foundation/1_python_interpreter.md)**
 
     You can actually run Python code directly from command prompt. 
 
@@ -28,7 +28,7 @@
         * *[Strings](foundation/2_py_calculator.md/#2️⃣2️⃣-strings)*
         * *[Lists](foundation/2_py_calculator.md/#2️⃣3️⃣-lists)*
 
-        🔗 [More detail about variable types](https://docs.python.org/3/library/stdtypes.html#special-attributes)
+        🔗 [More detail about variable types](https://docs.python.org/3/library/stdtypes.html#)
 </br>
 
 * Python also uses the usual flow control statements known from other languages, with some twists. 
