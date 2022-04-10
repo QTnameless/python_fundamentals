@@ -19,7 +19,7 @@
 
 * Python is a **'interpreted language'**, which is a little bit different from **'compiled languages'** like C or Java.
 
-    - [ ] **[Using Python Interpreter](/Python/foundation/1_python_interpreter.md)**
+    - [ ] **[Using Python Interpreter](foundation/1_python_interpreter.md)**
 
     You can actually run Python code directly from command prompt. 
 
@@ -50,9 +50,9 @@
 *It is also possible to define functions with a variable number of arguments. There are three forms,which can be combined :*
 - Check out on **[Popular Libraries](#popular-libraries)**
 
-1. **Built-in Functions** : such as `help()` to ask for help, `min()` to get the minimum value, `print()` to print an object to the terminal,…  
-2. **User-Defined Functions (UDFs)** : functions that users create to help them out of their
-3. **Anonymous Functions (Lambda functions)** : 
+    1. **Built-in Functions** : such as `help()` to ask for help, `min()` to get the minimum value, `print()` to print an object to the terminal,…  
+    2. **User-Defined Functions (UDFs)** : functions that users create to help them out of their
+    3. **Anonymous Functions (Lambda functions)** : not declared with the standard `def` keyword.
 
 - [ ] **[1. Default Argument Values]()**
 
