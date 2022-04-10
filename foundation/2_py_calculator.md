@@ -43,6 +43,35 @@
 2
 ```
 
+***If variables haven't been defined, it will cause error.***
+
+```console
+>>> n  # try to access an undefined variable
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'n' is not defined
+```
+
+* If there are ***float and integer vars in the same equation***, operators will convert the integer to float type. (`float` + `integer` = `float`)
+
+```console
+>>> 5 * 2 / 4
+2.5
+```
+
+* variable `_` will be assigned to the ***last printed expression***. (You can use it to continue calculation. - like `Ans`)
+
+```console
+>>> x = 12
+>>> y = 13
+>>> x + y
+25
+>>> z  = 10 + _ # '_' won't create a local var
+>>> z           # so do not assign a val to it
+35
+```
+
+* In addition to `int` and `float`, Python supports other types of numbers, such as `Decimal` and `Fraction`. Python also has built-in support for complex numbers, and uses the `j` or `J` suffix to indicate the imaginary part (e.g. 3+5j).
 
 ## 2️⃣.2️⃣ **Strings**
 
