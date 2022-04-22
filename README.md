@@ -108,7 +108,7 @@
 
 ## **Popular Libraries** 📚
 
-- [ ] **[Matplotlib](libraries/matplotlib/matplotlib_menu.md)**
+- [ ] **[Matplotlib](libraries/matplotlib_menu.md)**
 
 </br>
 
