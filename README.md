@@ -33,7 +33,7 @@
 
 * Python also uses the usual flow control statements known from other languages, with some twists. 
 
-    - [ ] **[More Control Flow Tools (if, for, range() ...)]()**
+    - [ ] **[More Control Flow Tools (if, for, range() ...)](foundation/3_control_flow.md)**
 
 </br>
 
@@ -108,7 +108,7 @@
 
 ## **Popular Libraries** 📚
 
-- [ ] **[]()**
+- [ ] **[Matplotlib](libraries/matplotlib/matplotlib_menu.md)**
 
 </br>
 
